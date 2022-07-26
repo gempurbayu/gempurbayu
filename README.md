@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Gempur Bayu Aji. I am a Frontend & Backend Developer. Interested about Programming and never stop to learning.
 
 <!--
 **gempurbayu/gempurbayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
