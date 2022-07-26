@@ -1,6 +1,6 @@
-
-## Hi there 👋
-My name is Gempur Bayu Aji. I am a Frontend & Backend Developer. Interested about Programming and never stop to learning.
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 Software developer >
+</p>
 
 <div align="center">
   
